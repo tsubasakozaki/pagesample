@@ -14,8 +14,9 @@ API実習の講義にて、このようなページをテンプレートを使�
 
 ２０歳
 
-YouTubeをよく見る！
-**Bold** and _Italic_ and `Code` text
+YouTube・アマゾンプライムビデオ・Netflixをよく見る
+
+
 ```
 
 ### 講義の意気込み
